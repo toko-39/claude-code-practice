@@ -1,0 +1,5 @@
+# MCP設定（トークンが含まれるため除外）
+.mcp.json
+
+# Claude Code
+.claude/
